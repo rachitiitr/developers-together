@@ -10,3 +10,8 @@ Agenda for the repo:
 ✅ We will be heavily using markdown  to maintain the repository neatly.   
 ✅ Raise a PR first, do not worry about the project structure at the moment.    
 ✅ We can work those details out in code reviews.  
+
+# Projects to Contribute (Already built)
+- [React Awesome Loaders](https://github.com/ashutosh1919/react-awesome-loaders): ReactJS, GatsbyJS, styled-components, ThreeJS, GSAP, zdog, smooth-doc etc.
+- [React LiquidSwipe](https://github.com/ashutosh1919/react-liquidswipe): ReactJS, GatsbyJS, React Spring, React UseGesture, ThemeUI etc.
+- [MasterPortfolio](https://github.com/ashutosh1919/masterPortfolio): ReactJS
